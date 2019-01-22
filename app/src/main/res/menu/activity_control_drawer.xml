@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group
+            android:id="@+id/control"
+            android:visible="false"
+            android:checkableBehavior="single">
+        <item
+                android:id="@+id/agre_prod"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/agre_prod"/>
+        <item
+                android:id="@+id/agre_ingre"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/agre_ingre"/>
+    </group>
+
+    <group
+            android:id="@+id/pedidos"
+            android:visible="false"
+            android:checkableBehavior="single">
+        <item
+                android:id="@+id/delivery"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/delivery"/>
+    </group>
+
+    <!--<item android:title="@string/contacto">
+        <menu>
+            <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Share"/>
+        </menu>
+    </item>-->
+</menu>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="title_activity_second">CARTA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Estamos trabajando en ello</string>
+    <string name="comprar">Comprar</string>
+    <string name="nombre">Nombre</string>
+    <string name="precio">Precio</string>
+    <string name="telefono">Telefono: 961266733</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="espera">Espera el código que te envié</string>
+    <string name="ingresa_cod">Ingrese el código de verificación</string>
+    <string name="verificar">Verificar</string>
+    <string name="ape_pat">Apellido Paterno</string>
+    <string name="ape_mat">Apellido Materno</string>
+    <string name="nomb">Nombres</string>
+    <string name="direcc">Dirección</string>
+    <string name="registrar">Registrar</string>
+    <string name="numero">Número</string>
+    <string name="total">Total</string>
+    <string name="conf">confirmar</string>
+    <string name="confir">Confirmar Pedido</string>
+    <string name="api_key_maps">AIzaSyCCaqHoavuaTgonmZCQ__dHOtETt5Jijpg</string>
+    <string name="title_activity_control">ControlActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="agre_ingre">Agregar Ingredientes</string>
+    <string name="agre_prod">Agregar Productos</string>
+    <string name="delivery">Pedidos</string>
+    <string name="contacto">Contacto</string>
+    <string name="buscar">Buscar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="agregar">Agregar</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="preciopo">Precio 10.00</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="addIngre">Agregar Ingredientes</string>
+    <string name="editar">Editar</string>
+    <string name="detalles">Detalles</string>
+    <string name="num_pedi">Numero Perdido</string>
+    <string name="cliente">Cliente</string>
+    <string name="estados">Estados</string>
+</resources>
